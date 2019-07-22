@@ -1,0 +1,92 @@
+body {
+    color: #777777;
+    font-family: Arial, Helvetica, sans-serif;
+    background-image: url("../images/memphis_mini.png");
+    background-repeat: repeat;
+    display: block;
+}
+
+img {
+    margin: 0px 20px 20px 0px;
+    float: left;
+}
+
+h1, h2, h3 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+h1 {
+    color: #ffffff;
+    background-color: #4aaaa5;
+    float: left;
+    text-align: center;
+}
+
+h5 {
+    color: #4aaaa5;
+    float: left;
+    border-bottom-style: solid;
+    border-bottom-width: 2px;
+    border-bottom-color: #cccccc;
+    font-size: 14px;
+    padding: 20px 20px 20px 20px;
+    width: 100%;
+}
+
+h3 {
+    color: #4aaaa5;
+}
+
+p {
+    margin: 20px 0px 0px 0px;
+    float: right;
+}
+
+.navbar {
+    border-bottom-style: solid;
+    border-bottom-width: 2px;
+    border-bottom-color: #cccccc;
+}
+
+.navbar-brand {
+    background-color: #4aaaa5;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding: 20px 20px 20px 20px;
+    color: #ffffff;
+    font-size: 14px;
+}
+
+.card-title {
+    border-bottom-style: solid;
+    border-bottom-width: 2px;
+    border-bottom-color: #cccccc;
+}
+
+.suefooter {
+    background-color: #666666;
+    text-align: center;
+    color: #ffffff;
+    border-top-style: solid;
+    border-top-width: 5px;
+    border-top-color: #4aaaa5;
+    font-size: 12px;
+}
+
+.div-port {
+    margin: 10px 10px 10px 0px;
+    float: left;
+    position: relative;
+    text-align: center;
+    color: white;  
+}
+
+.div-label {
+    position: absolute;
+    bottom: 40px;
+    margin: 0px;  
+    background-color: #4aaaa5;
+    width: 180px;
+    height: 40px;
+    line-height: 40px;
+    font-family: 'Times New Roman', Times, serif;
+}
